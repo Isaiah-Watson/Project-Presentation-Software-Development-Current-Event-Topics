@@ -2,8 +2,8 @@
 
 ## Team Information
 - Kawren Sadr-Baygi --> 138951256
-- Isaiah Jade-Watson -->
-- Samad Adelakun -->
+- Isaiah Jade-Watson -->  10732461
+- Samad Adelakun --> 136739257
 
 
 
