@@ -1,7 +1,7 @@
 # Project-Presentation-Software-Development-Current-Event-Topics
-This topic is about Open AI and the coding assistants run by AI, like GitHub Copilot. As the world keeps changing, it's of great importance to monitor and track the current state and impact of Open AI and AI coding assistants for future reference.
 
-# Public Youtube Video Link: 
+# Topic and topic summary: OpenAI and AI coding assistants
+- This topic is about Open AI and the coding assistants run by AI, like GitHub Copilot. As the world keeps changing, it's of great importance to monitor and track the current state and impact of Open AI and AI coding assistants for future reference.
 
 # Members
 - Kawren Sadr-Baygi --> 138951256
@@ -11,8 +11,10 @@ This topic is about Open AI and the coding assistants run by AI, like GitHub Cop
 # Tasks
 Live recording --> All members
 
-Research
+Research:
 
 - Brief Overview --> Samad Adelakun
 - Current state of OpenAI and AI coding assistants --> Isaiah Jade-Watson
 - Impact of OpenAI and AI coding assistants --> Kawren Sadr-Baygi
+
+## Project Presentation Video: 
