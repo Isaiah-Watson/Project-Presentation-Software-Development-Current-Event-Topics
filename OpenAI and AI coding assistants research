@@ -1,0 +1,25 @@
+# OpenAI and AI coding assistants research
+
+## Benefits of AI coding assistants:
+
+- With AI coding assistants automating repetitive tasks like writing and debugging code, software developers can focus more on higher level problem solving and innovation. Studies show that tools like GitHub Copilot has the potential to reduce coding time by up to 50%, therefore giving teams better chances to deliver projects faster.
+  - On a survey with 134 responses on GitHub Copilot on better productivity, 76.1% said a strong yes, 21.6 gave a small yes, and 1.5% said no. 
+  - On another survey with 39 responses on OpenAI ChatGPT on the same question, 71.8% said a strong yes, 17.9% gave a small yes, 7.7% were unsure, and 2.6% said no.
+- AI acts as a real time tutor, providing instant feedback, suggest best practices, and help users understand unfamiliar syntax. Therefore accelerating the learning curve and encourages developers to take on more complex challenges.
+- AI powered tools can catch common mistakes and ensures that best practices are met when checking code, making it less likely for bugs to appear and improves the overall codebase quality.
+- AI coding assistants are also multilingual, which makes them very versatile across a variety of programming languages like Python, Java, Javascript, Rust, etc.
+
+## Challenges and Concerns of AI coding assistants
+
+- One risk is that developers can become too reliant on these AI powered tools, potentially hindering their ability to think creatively and critically. It can also lead to a lack of deep understanding of the generated code.
+- AI models are trained on publicly available code, so there's a risk that they may offer solutions that aren't secure, optimal, and/or compatible with present day standards.
+- Using AI generated code also raises ownership and licensing questions, and for a good reason. Could there be legal complications if the suggested code is unusually similar to existing open-source projects? This debate carries on even today.
+- AI models are good, but only as good as the data they've been trained on. If the training data offers biases, outdated practices, and/or mistakes, then the AI tool will incorporate these pieces of information in its suggestions.
+
+## Conclusion
+- There's no denying the fact that OpenAI and AI coding assistants changing the way we develop softwares and improve what we've done before. The potential benefits outweigh the potential risks.
+- For developers, they have to know how to maintain a critical eye while using these tools and use AI for the purpose of enhancement, not replacement. The best code isn't just written by machines, but by the creative and innovative minds of human developers after all.
+
+## Reference Sources:
+- [The Rise of AI-Powered Coding Assistants: How Tools Like GitHub Copilot Are Changing Software Development](https://medium.com/@sreekanth.thummala/the-rise-of-ai-powered-coding-assistants-how-tools-like-github-copilot-are-changing-software-0e31c34490e2)
+- [The productivity impact of AI coding tools](https://newsletter.pragmaticengineer.com/p/ai-coding-tools)
